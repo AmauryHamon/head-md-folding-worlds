@@ -4,3 +4,7 @@ with Amaury Hamon and Tomislav Levak
 ## Pitches
 
 [Link to our pitch folder](/Pitches/)
+
+## Devlog
+
+[Link to our devlog folder](/Devlog/)
