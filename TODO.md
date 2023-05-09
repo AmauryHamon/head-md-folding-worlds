@@ -1,2 +1,7 @@
 - Define overall concept and interaction
 - Setup Pitch
+- Feedbacks Camille
+    - Interaction mains obligatoire
+    - Penser le son
+    - Recentrer sur la flore
+    - 
