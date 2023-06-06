@@ -37,11 +37,21 @@ Depending on complexity of the project:
 
 
 STATES
-    Unfolded
-    Folding
-    Folded
-    Unfolding
+    POV unfolded (group of Entity)
+    Entity Unfolded
+    Entity Limb Folding
+    Entity Limb Unfolding
+    Entity Folded
+    POV folded
 
 EVENTS
-    Limb Folded
-    Fully Folded
+    Gaze enter
+        Timer of Folding transition 
+    Gaze leave
+        Timer Delay before unfolding timer – variable based on folding/unfolding process
+            Unfolding an articulation getting interrupted: quick timer
+            Unfolding an articulation already completed: medium timer
+            Unfolding an articulation of a fully-folded shape: slow timer
+    Gaze stay
+        Do nothing
+    
