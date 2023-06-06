@@ -60,3 +60,10 @@ EVENTS
 | Folded | | | |
 | Folding | | | |
 | Unfolding | | | |
+
+
+Feedbacks 6.6.2023
+Pointer pas encore clair, trop discret, peut-etre par le son on peut comprendre ? 
+Concentrer 4 couleurs pour le projet et assets -> créer unité
+fog volumetric dans URP Unity Project-> check lien youtuber Douglas
+
