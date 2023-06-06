@@ -28,12 +28,9 @@ Depending on complexity of the project:
 - Gestures
 	+ Gaze
 - Sounds
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1532119822&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-	+ 
-	+ 
+	+ https://soundcloud.com/tomislav-levak/soundtest1?si=43b9f647a4b54981805785133682a2dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+	+ https://soundcloud.com/tomislav-levak/soundtest2?si=676b4c76fa9b4f12842168f1cc3d8f91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+	+ https://soundcloud.com/tomislav-levak/soundtest3?si=2336465b561342d3aea6ad99d0ea0d03&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ## State Machines
 Describe all the objects in a Scene that need to have a "state". Don't worry about objects that don't change state.
