@@ -55,3 +55,8 @@ EVENTS
     Gaze stay
         Do nothing
     
+| If the state is currently | And this happens | Then trigger this event | To change the state to |
+| Unfolded | | | |
+| Folded | | | |
+| Folding | | | |
+| Unfolding | | | |
