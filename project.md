@@ -27,6 +27,10 @@ Depending on complexity of the project:
 	+ Gaze
 - Sounds: 
     + Frottements de plexi contre plexi ou autres surfaces
+- Sounds
+	+ https://soundcloud.com/tomislav-levak/soundtest1?si=43b9f647a4b54981805785133682a2dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+	+ https://soundcloud.com/tomislav-levak/soundtest2?si=676b4c76fa9b4f12842168f1cc3d8f91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+	+ https://soundcloud.com/tomislav-levak/soundtest3?si=2336465b561342d3aea6ad99d0ea0d03&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ## State Machines
 ![](/Devlog/img/2023-06-06-StateMap.png)
