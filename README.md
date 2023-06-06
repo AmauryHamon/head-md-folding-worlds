@@ -3,7 +3,7 @@ with Amaury Hamon and Tomislav Levak
 
 ## Project
 
-[project description](/project.md/)
+[Project description](/project.md/)
 
 ## Pitches
 
