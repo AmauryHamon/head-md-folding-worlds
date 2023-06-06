@@ -14,19 +14,17 @@ This is a "1 pager" that explains all the basics in one page. This is a text-bas
 Look at the flat shapes in your field of view to depetrify them into fluid moving shapes. When a static 2D shape is targeted, a timer starts to deform progressively its shape into 3D. Once fully deformed, the 3D shapes stay animated for a time, so you can focus on others. After some time, the deformed sculptures will get back to their original states, unless you've watched them long enough to permanently unlock their final level of transformation.
 
 ## POV
-POV == Points of view. Describe all the POVs where the player can stand/float/be in the scene. Who are you, where are you, what do you see?
-- The "passeur", standing on a boat
-- A confused shadow, riding on a carpet
-- Et cætera
+The Garden is a rectangular zone, with three potential point of views.
+Depending on complexity of the project:
+1. You are positionned standing in the center of the Garden of petrified planes. You are the Gardener trying to bring beauty and life back in the garden. All you see are petrified planes that need tending to turn back in livingful fluid look.
+2. (Optional) You are positionned standing in one extremity of the Garden of petrified planes. Once the first zone is fully taken care of you can get teleported to two other zone (center and other extremity)
 
 ## Assets
 - Models
-	+ Fleur
-	+ Caillou
-	+ Et cætera
+	+ Plane Grid Map
+    + Plane 
 - Gestures
-	+ Pinch
-	+ Point
+	+ Gaze
 - Sounds
 	+ Paf
 	+ Bzzzzz
