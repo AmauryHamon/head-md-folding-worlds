@@ -1,6 +1,10 @@
 # Folding Worlds 
 with Amaury Hamon and Tomislav Levak
 
+## Project
+
+[Project description](/project.md/)
+
 ## Pitches
 
 [Link to our pitch folder](/Pitches/)
