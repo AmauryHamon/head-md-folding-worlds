@@ -8,7 +8,9 @@ In this garden of petrified entities turned flat and rectilign, your gaze is the
 ## Synopsis
 This is a "1 pager" that explains all the basics in one page. This is a text-based description of the project with maybe one illustration that accompagnies the text.
 
+The gamer enters the world in the center of the garden. They only have their gaze to interact with their surrounding. The first step is to discover how to make the shapes move. Once they have watched the right limb of one of the shapes long enough it will start moving. 
 
+The user has the freedom to switch between any shapes around but if they are not attended long enough they will get back immediately to their flat static state. But after reaching a certain point of deformation where a limb of a shape is unlocked the user can leave a form unattended for a while to focus on another and make it move as well. But at a certain point the latest form will go back to it's rigid form if the shape is not fully unlocked. The user have to go back focusing on it and eventually understand that there's is several levels of deformation to pass until the form is totally liberated. The game ends when all the shapes are fully liberated but the gamer can stay in it as long as they want to contemplate the garden in it's final form.
 
 ## Visual Interaction Loop
 Look at the flat shapes in your field of view to depetrify them into fluid moving shapes. When a static 2D shape is targeted, a timer starts to deform progressively its shape into 3D. Once fully deformed, the 3D shapes stay animated for a time, so you can focus on others. After some time, the deformed sculptures will get back to their original states, unless you've watched them long enough to permanently unlock their final level of transformation.
@@ -21,9 +23,8 @@ POV == Points of view. Describe all the POVs where the player can stand/float/be
 
 ## Assets
 - Models
-	+ Fleur
-	+ Caillou
-	+ Et cætera
+	+ floor
+	+ scans
 - Gestures
 	+ Pinch
 	+ Point
