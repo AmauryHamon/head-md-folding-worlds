@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 5fb82e3c1b6e04e0182a241d41b7602d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232132998, guid: 89816876ca3c84f4381bb81607cfdd4c, type: 3}
+  sharedProperties:
+    _importCameras: 1
+    _importLights: 1
+    _updateMaterials: 0
+    _legacyAnimationComponents: 1
+    _generateLightmapUV: 0
+    _lightmapUnwrapHardAngle: 88
+    _lightmapUnwrapPackMargin: 64
+    _lightmapUnwrapAngleError: 8
+    _lightmapUnwrapAreaError: 15
+    _modelledUnitInt: 0
+    _customScale: 1
+    _layoutInt: 0
+    _logHints: 1
+    _logWarnings: 1
+    _logErrors: 1
+    _showDialogForRelativeTexturePaths: 1
+  _useGlobalSettings: 0
+  _boneSelection:
+  - JointMain
+  - JointSec
+  - JointCentral
+  - Joint_1
+  - Joint_1
+  - Joint_1
+  - Joint_2
+  - Joint_3
+  - Joint1
+  - Joint_1
+  - Joint1b
+  - Joint_1
+  - Joint2
+  - Joint2a
+  - Joint_1
+  - Joint3
+  - Joint_1
