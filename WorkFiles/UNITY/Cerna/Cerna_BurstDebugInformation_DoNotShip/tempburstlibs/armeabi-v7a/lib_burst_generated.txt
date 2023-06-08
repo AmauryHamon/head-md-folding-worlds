@@ -1,4 +1,4 @@
-Library: /Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Temp/StagingArea/tempburstlibs/armeabi-v7a/lib_burst_generated
+Library: /Users/amauryhamon/Desktop/CODE/head-md-folding-worlds/WorkFiles/UNITY/Cerna/Temp/StagingArea/tempburstlibs/armeabi-v7a/lib_burst_generated
 --platform=Android
 --backend=burst-llvm-14
 --target=ARMV7A_NEON32
@@ -110,15 +110,15 @@ Library: /Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Temp/StagingArea/tempburst
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
---compilation-defines=ENABLE_VR_MODULE
---compilation-defines=ENABLE_XR_MODULE
---compilation-defines=CSHARP_7_OR_LATER
---compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=PACKAGE_UITOOLKIT
+--compilation-defines=CSHARP_7_OR_LATER
+--compilation-defines=CSHARP_7_3_OR_NEWER
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=MODULE_AI_EXISTS
 --compilation-defines=MODULE_ANIMATION_EXISTS
 --compilation-defines=MODULE_PHYSICS_EXISTS
@@ -127,14 +127,14 @@ Library: /Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Temp/StagingArea/tempburst
 --compilation-defines=ENABLE_BURST_1_0_0_OR_NEWER
 --compilation-defines=USING_ANIMATION_MODULE
 --compilation-defines=USING_PHYSICS2D_MODULE
+--compilation-defines=XR_MGMT_GTE_320
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=UNITY_ANALYTICS
---compilation-defines=XR_MGMT_GTE_320
 --generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Temp/Burst
+--temp-folder=/Users/amauryhamon/Desktop/CODE/head-md-folding-worlds/WorkFiles/UNITY/Cerna/Temp/Burst
 --key-folder=/Applications/Unity/Hub/Editor/2021.3.25f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Library/Burst
---output=/Users/amauryhamon/Dropbox/UNITY/Cerna/Cerna/Temp/StagingArea/tempburstlibs/armeabi-v7a/lib_burst_generated
+--decode-folder=/Users/amauryhamon/Desktop/CODE/head-md-folding-worlds/WorkFiles/UNITY/Cerna/Library/Burst
+--output=/Users/amauryhamon/Desktop/CODE/head-md-folding-worlds/WorkFiles/UNITY/Cerna/Temp/StagingArea/tempburstlibs/armeabi-v7a/lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
